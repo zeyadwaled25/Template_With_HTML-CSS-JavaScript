@@ -775,7 +775,11 @@ ul {
   color: #555;
   font-size: 18px;
   font-style: italic;
-  height: 76px;
+}
+@media (max-width: 1199px) {  /* large */
+  .testimonials .box > p {
+    height: 176.5px;
+  }
 }
 @media (max-width: 991px) {
   .testimonials .box > p {
