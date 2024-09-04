@@ -222,9 +222,9 @@ ul {
 }
 @media (max-width: 576px) {
   .landing-page .header .logo {
-    width: 450px;
+    width: 460px;
   }
-} 
+}
 .landing-page .header .links {
   width: 100%;
   text-align: right;
