@@ -222,7 +222,7 @@ ul {
 }
 @media (max-width: 576px) {
   .landing-page .header .logo {
-    width: 460px;
+    width: 500px;
   }
 }
 .landing-page .header .links {
