@@ -260,6 +260,7 @@ ul {
 .landing-page .header .links .toggle-menu.menu-active::before {
   content: '';
   position: absolute;
+  z-index: 22;
   width: 0;
   height: 0;
   border-style: solid;
